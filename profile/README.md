@@ -75,6 +75,7 @@ ai-regulatory-compliance-agent/
 │           ├── analysis.py                # /analyze endpoints
 │           ├── history.py                 # Analysis history endpoints
 │           └── reports.py                 # Report download endpoints
+│           └── websocket.py                 # Report download endpoints
 │
 └── frontend/                              # Repository: org/frontend
     ├── .gitignore
@@ -96,6 +97,7 @@ ai-regulatory-compliance-agent/
         ├── hooks/
         │   ├── useAuth.js                 # Login/Register hooks
         │   └── useAnalysis.js             # Analysis workflow hooks
+        │   └── useWebSocket.js
         │
         ├── pages/
         │   ├── LoginPage.jsx              # User login
