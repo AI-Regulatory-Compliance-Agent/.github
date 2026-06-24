@@ -1,4 +1,4 @@
-# 🛡️ ComplianceAI — .github Repository
+# 🛡️ ComplianceAI - .github Repository
 
 > GitHub organization configuration repository. Contains the organization profile, contributing guidelines, issue/PR templates, security policy, and CI/CD workflows shared across all ComplianceAI repositories.
 
@@ -34,4 +34,4 @@
 
 - [System Architecture](profile/README.md) — Full system overview with diagrams
 - [Contributing Guide](CONTRIBUTING.md) — How to contribute
-- [Security Policy](SECURITY.md) — Vulnerability reporting
+- [Security Policy](SECURITY.md) — Vulnerability reporting
