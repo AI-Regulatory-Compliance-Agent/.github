@@ -1,4 +1,4 @@
-<![CDATA[# Contributing to ComplianceAI
+# Contributing to ComplianceAI
 
 Thank you for your interest in contributing to ComplianceAI! This document provides guidelines and instructions for contributing to any repository in the organization.
 
@@ -255,4 +255,3 @@ Use the [Feature Request template](.github/ISSUE_TEMPLATE/feature_request.md) an
 - Open a new issue with the `question` label
 
 Thank you for contributing to ComplianceAI! 🎉
-]]>
