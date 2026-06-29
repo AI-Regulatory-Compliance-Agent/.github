@@ -12,6 +12,8 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docker.com)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Agents-1C3C3C?logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
 [![Gemini](https://img.shields.io/badge/Gemini-2.0_Flash-4285F4?logo=google&logoColor=white)](https://ai.google.dev)
+[![Release](https://img.shields.io/badge/Release-v1.2.0-22c55e?logo=github&logoColor=white)](https://github.com/AI-Regulatory-Compliance-Agent/.github/releases/tag/v1.2.0)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Azure-0078d4?logo=microsoftazure&logoColor=white)](http://complianceai.centralindia.cloudapp.azure.com)
 
 ---
 
@@ -26,6 +28,20 @@ ComplianceAI is an intelligent agent system that helps businesses understand the
 3. ⚖️ **Score risks** with severity ratings for each compliance gap
 4. 🔧 **Generate remediation** action plans with priorities and timelines
 5. 📄 **Produce PDF reports** with full compliance analysis
+
+---
+
+## 🌐 Live Demo
+
+> **Deployed on Azure** — Standard_B2as_v2 (2 vCPUs, 8 GB RAM) · All 5 services via Docker Compose · Qdrant Cloud (eu-central-1)
+
+**🔗 [http://complianceai.centralindia.cloudapp.azure.com](http://complianceai.centralindia.cloudapp.azure.com)**
+
+| Service | URL |
+|---------|-----|
+| 🖥️ **Frontend** | [complianceai.centralindia.cloudapp.azure.com](http://complianceai.centralindia.cloudapp.azure.com) |
+| ⚡ **Backend API** | [complianceai.centralindia.cloudapp.azure.com:8000](http://complianceai.centralindia.cloudapp.azure.com:8000) |
+| 📚 **API Docs** | [complianceai.centralindia.cloudapp.azure.com:8000/docs](http://complianceai.centralindia.cloudapp.azure.com:8000/docs) |
 
 ---
 
