@@ -109,10 +109,10 @@ This project is organized as a multi-repo architecture. Each component has its o
 
 ```bash
 mkdir complianceai && cd complianceai
-git clone <org>/backend
-git clone <org>/frontend
-git clone <org>/ingestion
-git clone <org>/Infrastructure
+git clone <https://github.com/AI-Regulatory-Compliance-Agent/backend.git>/backend
+git clone <https://github.com/AI-Regulatory-Compliance-Agent/frontend.git>/frontend
+git clone <https://github.com/AI-Regulatory-Compliance-Agent/Regulatory-Knowledge-Ingestion.git>/ingestion
+git clone <https://github.com/AI-Regulatory-Compliance-Agent/Infrastructure.git>/Infrastructure
 mkdir -p data/raw
 # Place your regulation PDFs in data/raw/
 ```
